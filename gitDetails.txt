@@ -1,2 +1,0 @@
-GIT:
-open source, distributed version control system, used to track the code changes , debug and test cases and if any problem occurs the code can be reverted to previous code
